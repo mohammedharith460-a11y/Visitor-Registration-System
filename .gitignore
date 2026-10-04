@@ -1,0 +1,22 @@
+# Java
+backend/target/
+backend/.mvn/
+backend/*.log
+backend/src/main/resources/application.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local tooling and dependencies
+.tmpimg/
+node_modules/
+.github/modernize/
+
+# Private documents
+/Requisition Letter.docx
+
+# OS
+.DS_Store
+Thumbs.db
